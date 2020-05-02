@@ -1,0 +1,33 @@
+const belemNovo = [
+            {
+                foto:"images/logo-2.svg",
+                validade:"23/03/20 ~ 27/03/20",
+                descricao:"Havaianas Top",
+                de:"59,90",
+                por:"39,90",
+                endereco:"Av. Blablabla, 1.",
+                bairro:"Belém Novo"
+            },
+
+            {
+                tipo: "farmacia",
+                foto:"images/logo-3.svg",
+                validade:"23/03/20 ~ 27/03/20",
+                descricao:"Tênis Reebok Royal",
+                de:"219,90",
+                por:"199,90",
+                endereco:"Av. Blebleble, 2.",
+                bairro:"Belém Novo"
+            },
+
+            {
+                tipo: "mercado",
+                foto: "images/logo-2.svg",
+                validade:"23/03/20 ~ 27/03/20",
+                descricao:"Nike Shox",
+                de:"810,19",
+                por:"759,19",
+                endereco:"Av. Blebleble, 2.",
+                bairro:"Belém Novo"
+            }    
+]
